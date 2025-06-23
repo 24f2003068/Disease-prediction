@@ -1,1 +1,21 @@
+.footer-left {
+  width: 30%;
+}
+
+.footer{
+  width: 100%;
+}
+img {
+  width: 30px;
+  height: 30px;
+  margin: 5px; 
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+p{
+  color: white;
+  font-size: .9rem;
+}
 
